@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="1238" started-at="2022-01-25T19:33:25 EST" finished-at="2022-01-25T19:33:26 EST">
+    <groups>
+    </groups>
+    <test name="GANAPI" duration-ms="1238" started-at="2022-01-25T19:33:25 EST" finished-at="2022-01-25T19:33:26 EST">
+      <class name="Class.GanApiTest">
+        <test-method status="PASS" signature="CardsUpdates()[pri:0, instance:Class.GanApiTest@968a59]" name="CardsUpdates" duration-ms="1214" started-at="2022-01-25T19:33:25 EST" finished-at="2022-01-25T19:33:26 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CardsUpdates -->
+      </class> <!-- Class.GanApiTest -->
+    </test> <!-- GANAPI -->
+  </suite> <!-- Default Suite -->
+</testng-results>
